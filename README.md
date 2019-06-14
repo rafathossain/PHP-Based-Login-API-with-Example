@@ -61,6 +61,7 @@ Now on your browser, open the index.php file and test the login with email and p
 
 ### Test using POSTMAN:
 Open postman and create a request as below. Change the URL to login.php file's URL. and click SEND. You will see the corresponding json output.
+
 <img src="https://camo.githubusercontent.com/0a35c86291e10c1e9f79994c7da70c24bf51a84a/68747470733a2f2f692e6962622e636f2f424e7146625a432f53637265656e73686f742d322e706e67" width="100%"/>
 
 ## License
