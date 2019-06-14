@@ -1,6 +1,6 @@
 <?php
 
-require_once "api/lib/lib.php";
+require_once "lib/lib.php";
 
 $response = array();
 
